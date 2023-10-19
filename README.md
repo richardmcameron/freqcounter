@@ -1,9 +1,9 @@
 # Frequency Counter
 CS-210 8-1 Journal: Portfolio Submission
 
-This C++ program is designed to track and manage item frequencies based on an input file. Here's a summary of its functionality:
+This is designed to track and manage item frequencies based on an input file.
 
-    It defines a class ItemTracker that has the following private data members:
+    Class ItemTracker has the following private data members:
         itemFrequency: a map that stores the frequency of each item.
         dataFilePath: a string representing the file path for saving data.
 
