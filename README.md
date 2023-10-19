@@ -31,4 +31,4 @@ This C++ program is designed to track and manage item frequencies based on an in
 
     The program is executed in the main function. It specifies an input file, creates an ItemTracker object, processes the input data from the file, and then enters the main menu for user interaction.
 
-In summary, this program reads item data from an input file, allows users to query item frequencies, and provides options to display the frequencies and histograms. It also supports saving the data to an output file.
+    In summary, this program reads item data from an input file, allows users to query item frequencies, and provides options to display the frequencies and histograms. It also supports saving the data to an output file.
